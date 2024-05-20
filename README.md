@@ -6,4 +6,5 @@ Com base nos dados passados pelo usuário no client, o modelo de predição que 
 Equipe de Desenvolvimento
 
 VITOR CRUZ DOS SANTOS  RM553621
+
 LUCCA AUGUSTO MATTEONI RM98146
